@@ -1,0 +1,5 @@
+SHIPMODE,avg_days_to_ship,aggregate_sales,aggregate_profit
+"Same Day",0.05,127352.96,16025.38
+"First Class",59.39,349494.85,48778.85
+"Second Class",117.05,452626.65,56326.94
+"Standard Class",195.36,1334046.02,159481.6
